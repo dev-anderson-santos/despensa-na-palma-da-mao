@@ -106,7 +106,7 @@ export default function Index() {
 
   return (
     <SafeAreaView style={{flex:1, justifyContent: "center", padding: 32, gap: 16 }}>
-      <StatusBar barStyle="light-content" backgroundColor="#0000ff" />
+      <StatusBar barStyle="light-content" backgroundColor="#000000" />
       <Text style={{fontSize: 32 }}>Despensa na palma da mão</Text>
       <Input placeholder="Nome do produto" onChangeText={setName} value={name} />
       <Input placeholder="Quantidade" onChangeText={setQuantity} value={quantity} />
