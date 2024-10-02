@@ -35,7 +35,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "278c3935-7aa4-42cf-addb-bf4fe587fa53"
+        "projectId": "14f5f28d-fb75-4a98-b916-2fd748c37329"
       }
     },
     "runtimeVersion": {
@@ -43,6 +43,7 @@
     },
     "updates": {
       "url": "https://u.expo.dev/278c3935-7aa4-42cf-addb-bf4fe587fa53"
-    }
+    },
+    "owner": "dev.anderson-org"
   }
 }
